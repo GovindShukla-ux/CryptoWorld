@@ -5,7 +5,7 @@
 
 ## About the Project
 
-CryptoWorld is a dynamic and interactive cryptocurrency information dashboard built to keep you informed about the ever-evolving digital asset market. Leveraging the powerful **CoinGecko API**, this application provides real-time global crypto statistics, detailed information on 150 top cryptocurrencies, trending assets, gainers, and the latest crypto news. Whether you're a seasoned investor or just curious about the crypto space, CryptoWorld offers a comprehensive and user-friendly interface to explore market data, historical trends, and top exchanges.
+CryptoWorld is a dynamic and interactive cryptocurrency information dashboard built to keep you informed about the ever-evolving digital asset market. Leveraging the powerful **CoinGecko API**, this application provides real-time global crypto statistics, detailed information on 250 top cryptocurrencies, trending assets, gainers, and the latest crypto news. Whether you're a seasoned investor or just curious about the crypto space, CryptoWorld offers a comprehensive and user-friendly interface to explore market data, historical trends, and top exchanges.
 
 The project aims to simplify access to complex cryptocurrency data, presenting it in an intuitive and visually appealing manner. From global market overviews to in-depth coin analyses, CryptoWorld is your one-stop solution for staying ahead in the fast-paced world of digital currencies.
 
@@ -31,9 +31,9 @@ The home page acts as your primary dashboard, offering a quick glance at the cur
 
  \#\#\# Cryptocurrencies Page
 
-This dedicated section provides in-depth information on 150 leading cryptocurrencies:
+This dedicated section provides in-depth information on 250 leading cryptocurrencies:
 
-  * **List of 150 Cryptos:** Presents a comprehensive list of the top 150 cryptocurrencies, typically sortable by various metrics like market cap, price, volume, and 24-hour change.
+  * **List of 250 Cryptos:** Presents a comprehensive list of the top 250 cryptocurrencies, typically sortable by various metrics like market cap, price, volume, and 24-hour change.
   * **Detailed Coin Information:** Upon clicking on any cryptocurrency, a dedicated page loads with:
       * **Comprehensive Overview:** Current price, market cap, ranking, circulating supply, total supply, all-time high, and all-time low.
       * **Price History & Graph:** An interactive chart displaying the cryptocurrency's price history over various timeframes (e.g., 24h, 7d, 30d, 1y, Max), allowing for detailed analysis of price movements.
