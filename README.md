@@ -127,45 +127,6 @@ You might need to obtain an API key from the respective news provider (e.g., New
 
 -----
 
-## Project Structure
-
-A typical structure for a React project like CryptoWorld might look like this:
-
-```
-CryptoWorld/
-├── public/                 # Static assets (index.html, favicon, etc.)
-│   └── index.html
-├── src/
-│   ├── App.js              # Main application component
-│   ├── index.js            # Entry point for React app
-│   ├── components/         # Reusable UI components (e.g., Header, Footer, ChartCard)
-│   │   ├── GlobalStats.jsx
-│   │   ├── CryptoCard.jsx
-│   │   └── NewsCard.jsx
-│   ├── pages/              # Main view components (e.g., Home, Cryptocurrencies, Exchange)
-│   │   ├── HomePage.jsx
-│   │   ├── CryptoDetailsPage.jsx
-│   │   └── ExchangesPage.jsx
-│   ├── api/                # Logic for API calls
-│   │   └── coingeckoApi.js
-│   │   └── newsApi.js
-│   ├── assets/             # Images, icons, local styles
-│   │   └── images/
-│   │   └── styles/
-│   ├── hooks/              # Custom React hooks (e.g., useFetchData)
-│   ├── App.css / App.less  # Global styles
-│   └── reportWebVitals.js
-├── .env                    # Environment variables
-├── package.json            # Project dependencies and scripts
-├── README.md               # This file
-├── LICENSE                 # Project license file
-├── images/                 # Project screenshots for README
-│   ├── cryptoworld_screenshot.png
-│   └── ...
-└── .gitignore              # Files/folders to ignore in Git
-```
-
------
 
 ## Contributing
 
