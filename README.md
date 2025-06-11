@@ -1,7 +1,8 @@
 # CryptoWorld
 
 ## Your Real-Time Cryptocurrency Information Hub
-
+![Screenshot (2)](https://github.com/user-attachments/assets/1e321647-8edf-49e2-8daf-6ce989be6fbd)
+![Screenshot (5)](https://github.com/user-attachments/assets/88bf6aa0-ecc2-439e-8099-ccf727cbdbd3)
 
 ## About the Project
 
@@ -29,7 +30,7 @@ The home page acts as your primary dashboard, offering a quick glance at the cur
   * **Top 3 Gainers:** Showcases the top 3 cryptocurrencies with the largest price increases over the last 24 hours.
   * **Latest Crypto News:** Fetches and displays real-time news headlines from reputable crypto news sources, keeping you updated on critical market events and developments.
 
- \#\#\# Cryptocurrencies Page
+ ### Cryptocurrencies Page
 
 This dedicated section provides in-depth information on 250 leading cryptocurrencies:
 
@@ -40,7 +41,7 @@ This dedicated section provides in-depth information on 250 leading cryptocurren
       * **Coin Description:** A brief explanation of the cryptocurrency's purpose and technology.
       * **Links:** Official website, whitepaper, social media links.
 
- \#\#\# Exchanges Page
+ ### Exchanges Page
 
 This section helps users discover reputable cryptocurrency exchanges:
 
